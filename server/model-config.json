@@ -66,7 +66,11 @@
   "sale":{
     "dataSource":"db",
     "public":true
-  }, 
+  },
+"category":{
+"dataSource":"db",
+"public":true
+},
  "tix": {
     "dataSource": "db",
     "public": true
